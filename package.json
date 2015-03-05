@@ -13,7 +13,7 @@
   },
   "main": "lib",
   "dependencies": {
-    "accord": "0.14.x",
+    "accord": "git://github.com/jenius/accord.git#7a2c712ee4950b561347df47b7a68a6dff30eee6",
     "gulp-util": "3.x",
     "map-stream": "0.1.x",
     "replace-ext": "0.0.1",
